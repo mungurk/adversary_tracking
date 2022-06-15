@@ -23,6 +23,9 @@ https://github.com/eternyle/ShodanIsh
 
 https://www.binaryedge.io/ 
 
+**LeakIX**
+https://leakix.net/
+
 **Shodan**
 
 https://www.shodan.io/ 
